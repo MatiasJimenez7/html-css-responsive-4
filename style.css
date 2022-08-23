@@ -1,0 +1,1040 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+@media (min-width: 768px) {
+     
+
+.navegacion {
+    display: flex;
+    justify-content: space-around;
+    
+    margin-top: 3rem;
+
+}
+.applab {
+    display: flex;
+    font-size: 1.3rem;
+}
+.applab h2 {
+    color:rgb(204, 177, 27) ;
+}
+.applab span {
+    font-size: 2rem;
+    font-weight: 700;
+    color: rgb(19, 19, 105);
+}
+.nav2 {
+    display: flex;
+    gap: 2rem;
+    font-size: 1.2rem;
+    align-items: center;
+}
+.nav2 button {
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    font-size: 1.1rem;
+    border: blue;
+}
+
+.choice {
+    display: flex;
+    align-items: center;
+}
+.choice p {
+    color:rgb(19, 19, 105); 
+    font-weight: bold;
+    margin-left: 2rem;
+}
+.bestApp {
+    margin-top: 15rem;
+}
+.bestApp h1 {
+    font-size: 4rem;
+    width: 40%;
+    color:rgb(19, 19, 105) ;
+}
+.p {
+    font-size: 1.2rem;
+    width: 50%;
+    margin-top: 2rem;
+    color: gray;
+}
+.buttons {
+    display: flex;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+.buttons button {
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    font-size: 1.1rem;
+    border: blue;
+}
+
+.buttons p {
+    display: flex;
+    align-items: center;
+}
+.main {
+    display: flex;
+    margin: 50px 100px;
+}
+.center {
+    text-align: center;
+    color: gray;
+}
+.imagenes {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 100px;
+    
+}
+.imagenes img {
+    width: auto;
+    height: auto;
+    margin: auto 50px;
+    margin-top: 3rem;
+    display: flex;
+    align-items: center;
+}
+.main2 {
+    display: flex;
+    gap: 7rem;
+    margin-top: 10rem;
+}
+.caja2 h2 {
+    font-size: 2rem;
+    width: 40%;
+    color: rgb(19, 19, 105);
+}
+.caja2 p {
+    color: gray;
+    width: 80%;
+    margin-top: 2rem;
+}
+.column {
+    flex-direction: column;
+}
+.cajitas {
+    display: flex;
+    gap: 2rem;
+    margin-top: 3rem;
+    align-items: center;
+}
+.cajitas p {
+    margin-top: 1rem;
+    width: 50%;
+    color: gray;
+}
+.red {
+    color: rgb(175, 72, 72);
+}
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+}
+.smart {
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+    margin: 50px 100px;
+}
+.smart h2 {
+    color: rgb(19, 19, 105);
+    width: 25%;
+    font-size: 2.2rem;
+}
+.smart p {
+    color: gray;
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+.misma p {
+    margin-top: 1rem;
+    width: 80%; 
+    color: gray;
+}
+.triples {
+    display: flex;
+    justify-content: center;
+    margin: 100px 150px;
+    
+}
+.flex {
+    display: flex;
+    margin-top: 15rem;
+    gap: 10rem;
+    margin: 50px 100px;
+}
+.design h3 {
+    font-size: 1.7rem;
+    width: 40%;
+    color: rgb(19, 19, 105);
+}
+.design p {
+    color: gray;
+    margin-top: 2rem;
+}
+.design button {
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    font-size: 1.1rem;
+    border: blue;
+    margin-top: 2rem;
+}
+.why {
+    text-align: center;
+    color: rgb(19, 19, 105);
+    margin-top: 10rem;
+}
+.abajowhy {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    color: gray;
+}
+.tripless {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 10rem;
+}
+.mismas p {
+    color: gray;
+    width: 90%;
+}
+.mismas {
+    text-align: center;
+}
+.color {
+    color: rgb(19, 19, 105);
+}
+.triplesss {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    margin-top: 5rem;
+}
+.grid p {
+
+    color: gray;
+    width: 90%;
+}
+.ultimate {
+    color: rgb(19, 19, 105);
+    
+    margin: 0 100px;
+    margin-top: 10rem;
+    
+    font-size: 2rem;
+}
+.rise {
+    color: gray;
+    margin-top: 2rem;
+}
+.see {
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    font-size: 1.1rem;
+    border: blue;
+    margin-top: 10rem;
+}
+
+.column1 {
+    display: flex;
+    margin-top: 5rem;
+}
+.increible {
+    flex-direction: column;
+}
+.column2 {
+    display: flex;
+    margin-top: 10rem;
+}
+
+.ultimates {
+    display: flex;
+    margin: 50px 100px;
+}
+.get {
+    text-align: center;
+    width: 35%;
+    margin: auto;
+    margin-top: 10rem;
+    color :rgb(19, 19, 105);
+}
+.getp {
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    color: gray;
+    margin-top: 1rem;
+}
+.pesos {
+    display: flex;
+    justify-content: center;
+}
+.pago {
+    flex-direction: column;
+    text-align: center;
+    margin-top: 10rem;
+}
+.pesos h1 {
+    color:rgb(19, 19, 105) ;
+    font-size: 2.2rem;
+}
+.pesos span {
+    display: flex;
+    align-items: center;
+    color: gray;
+}
+.business {
+    font-size: 1.5rem;
+    color:rgb(19, 19, 105) ;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.for {
+    color: gray;
+}
+.cosas-pago {
+    margin-top: 5rem;
+}
+.cosas-pago p {
+    margin-bottom: 1rem;
+    color: gray;
+}
+.pago button {
+    text-decoration: none;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    font-size: 1.1rem;
+    border: blue;
+}
+.pagoss {
+    display: flex;
+    justify-content: center;
+    gap: 15rem;
+}
+.clientes {
+    display: flex;
+    
+    margin: 150px 100px;
+
+}
+.clientesCosas h1 {
+    color:rgb(19, 19, 105) ;
+    font-size: 2rem;
+    width: 65%;
+    margin-bottom: 2rem;
+}
+.h1p {
+    color: gray;
+    margin-top: 1rem;
+}
+.estrellas {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.clientes h2 {
+    font-size: 1.2rem;
+    color:rgb(19, 19, 105) ;
+}
+.loremXL {
+    color: gray;
+    margin-top: 2rem;
+}
+.fotoMujer {
+    display: flex;
+    margin-top: 3rem;
+    gap: 2rem;
+}
+.mujer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.mujer h3 {
+    color:rgb(19, 19, 105) ;
+}
+.mujer p {
+    color: gray;
+}
+.fre{
+    color:rgb(19, 19, 105) ;
+    text-align: center;
+    margin-top: 10rem;
+}
+.loremFre{
+    color: gray;
+    margin-top: 1rem;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    margin-top: 1.5rem;
+}
+.emergency {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10rem;
+    color :rgb(19, 19, 105) ;
+    width: 100%;
+}
+
+.muchoLorem {
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    color: gray;
+    line-height: 30px;
+}
+.emergencyy {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    color :rgb(19, 19, 105) ;
+    margin-top: 5rem;
+}
+.prueba777 {
+    width: 60%;
+    margin: 0 auto;
+}
+.mas {
+    font-size: 1.5rem;
+}
+.cajaFinal h1 {
+    font-size: 2.5rem;
+}
+.cajaFinal P {
+    width: 100%;
+    margin-top: 2rem;
+    color: gray;
+    line-height: 30px;
+}
+.imgs {
+    margin-top: 2rem;
+}
+.flexFinal {
+    display: flex;
+    
+    margin: 150px 100px;
+
+}
+.azul {
+    width: 100%;
+    height: 20rem;
+    background-color:rgb(55, 55, 124) ;
+    display: flex;
+    justify-content: center;
+    margin-top: -4rem;
+    
+
+}
+.finalll {
+    margin-top: 7rem;
+    flex-direction: column;
+}
+.home {
+    display: flex;
+    gap: 2rem;
+    color: rgb(204, 204, 204);
+    margin-top: 2rem;
+}
+.applabb {
+    display: flex;
+    font-size: 1.3rem;
+    justify-content: center;
+}
+.applabb h2 {
+    color :rgb(204, 177, 27) ;
+
+}
+.applabb span {
+    font-size: 2rem;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+}
+.this {
+    text-align: center;
+    color: rgb(204, 204, 204);
+    margin-top: 2rem;
+}
+}
+@media (max-width: 768px) {
+     
+
+    .navegacion {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 5rem;
+    
+    }
+    .applab {
+        display: flex;
+        font-size: 1.3rem;
+    }
+    .applab h2 {
+        color:rgb(204, 177, 27) ;
+    }
+    .applab span {
+        font-size: 2rem;
+        font-weight: 700;
+        color: rgb(19, 19, 105);
+    }
+    .nav2 {
+        display: flex;
+        gap: 2rem;
+        font-size: 1.2rem;
+        align-items: center;
+        display: none;
+    }
+    .nav2 button {
+        text-decoration: none;
+        border-radius: 20px;
+        background-color: blue;
+        color: white;
+        padding: 0.5rem 1.5rem;
+        font-size: 1.1rem;
+        border: blue;
+    }
+    
+    .choice {
+        display: flex;
+        align-items: center;
+    }
+    .choice p {
+        color:rgb(19, 19, 105); 
+        font-weight: bold;
+        margin-left: 2rem;
+    }
+    .choiceImg {
+        display: flex;
+        align-items: center;
+    }
+    .bestApp {
+        margin-top: 15rem;
+        
+    }
+    .bestApp {
+        margin-top: 10rem;
+    }
+    .bestApp h1 {
+        font-size: 2.5rem;
+        width: 100%;
+        color:rgb(19, 19, 105) ;
+        margin-top: 1rem;
+        text-align: center;
+    }
+    .p {
+        font-size: 1.1rem;
+        width: 100%;
+        margin-top: 2rem;
+        color: gray;
+        line-height: 30px;
+        text-align: center;
+    }
+    .buttons {
+        display: flex;
+        gap: 3rem;
+        margin-top: 2rem;
+        justify-content: center;
+    }
+    .buttons button {
+        text-decoration: none;
+        border-radius: 20px;
+        background-color: blue;
+        color: white;
+        padding: 0.5rem 1.5rem;
+        font-size: 1.1rem;
+        border: blue;
+    }
+    .buttons p {
+        display: flex;
+        align-items: center;
+    }
+    .mobile {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .mobile img {
+        max-width: 100%;
+    }
+    .main {
+        flex-direction: column;
+    }
+    .center {
+        text-align: center;
+        color: gray;
+    }
+    .imagenes {
+        display: grid;
+        grid-template-columns: repeat(2 , 1fr);
+        width: 100%;
+        margin: 0 auto;
+        justify-items: center;
+
+        
+    }
+    
+    .epico {
+        background-position: center;
+        margin-left:60px ;
+    }
+    .imagenes img {
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        margin-top: 3rem;
+        
+    }
+    .imgMain {
+        margin: auto;
+        width: 100%;
+    }
+    .imgMain img {
+        
+        max-width: 100%;
+    }
+    .main2 {
+        flex-direction: column;
+        gap: 7rem;
+        margin-top: 10rem;
+    }
+    .caja2 {
+        text-align: center;
+    }
+    .caja2 h2 {
+        font-size: 2rem;
+        width: 100%;
+        color: rgb(19, 19, 105);
+        
+    }
+    .caja2 p {
+        color: gray;
+        
+        width: 100%;
+        margin-top: 2rem;
+    }
+    .column {
+        flex-direction: column;
+    }
+    .cajitas {
+        display: flex;
+        gap: 2rem;
+        margin-top: 3rem;
+        align-items: center;
+    }
+    .cajitas p {
+        margin-top: 1rem;
+        width: 100%;
+        color: gray;
+    }
+    .cajitas img {
+        width: 2.7rem;
+    }
+    .red {
+        color: rgb(175, 72, 72);
+    }
+    .blue {
+        color: blue;
+    }
+    .green {
+        color: green;
+    }
+    .smart {
+        flex-direction: column;
+        gap: 10rem;
+        text-align: center;
+    }
+    .smart h2 {
+        color: rgb(19, 19, 105);
+        width: 100%;
+        font-size: 1.4rem;
+        margin-top: 5rem;
+    }
+    .smart p {
+        color: gray;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        margin-top: 2rem;
+    }
+    .misma p {
+        margin-top: 1rem;
+        width: 80%; 
+        color: gray;
+    }
+    .triples {
+        flex-direction: column;
+        margin-top: 10rem;
+        margin-left: 1.5rem;
+        
+    }
+    .hombreImg {
+        margin: auto;
+        width: 100%;
+    }
+    .hombreImg img {
+        max-width: 100%;
+    }
+    .flex {
+        flex-direction: column;
+        margin-top: 5rem;
+        gap: 2rem;
+    }
+    .design h3 {
+        font-size: 1.7rem;
+        width: 80%;
+        text-align: center;
+        color: rgb(19, 19, 105);
+    }
+    .design p {
+        color: gray;
+        margin-top: 2rem;
+        text-align: center;
+    }
+    .design button {
+        text-decoration: none;
+        border-radius: 20px;
+        background-color: blue;
+        color: white;
+        padding: 0.5rem 1.5rem;
+        font-size: 1.1rem;
+        border: blue;
+        margin-top: 2rem;
+        
+    }
+    .btn {
+        text-align: center;
+    }
+    .why {
+        text-align: center;
+        color: rgb(19, 19, 105);
+        margin-top: 5rem;
+    }
+    .abajowhy {
+        text-align: center;
+        width: 100%;
+        margin: auto;
+        color: gray;
+        margin-top: 2rem;
+    }
+    .tripless {
+        flex-direction: column;
+        gap: 3rem;
+        margin-top: 10rem;
+    }
+    .tripless p {
+        margin-top: 20px;
+    }
+    .mismas p {
+        color: gray;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .mismas {
+        text-align: center;
+    }
+    .color {
+        color: rgb(19, 19, 105);
+    }
+    .triplesss {
+        flex-direction: column;
+        gap: 3rem;
+        margin-top: 5rem;
+    }
+    .grid p {
+    
+        color: gray;
+        width: 90%;
+    }
+    .ultimate {
+        color: rgb(19, 19, 105);
+        width: 100%;
+        margin-top: 10rem;
+        font-size: 2rem;
+        text-align: center;
+    }
+    .rise {
+        color: gray;
+        margin-top: 2rem;
+    }
+    .see {
+        text-decoration: none;
+        border-radius: 20px;
+        background-color: blue;
+        color: white;
+        padding: 0.5rem 1.5rem;
+        font-size: 1.1rem;
+        border: blue;
+        margin-top: 3rem;
+    }
+    .seeImg {
+        margin: 0 auto;
+        width: 100%;
+        margin-top: 5rem;
+    }
+    .seeImg img {
+        max-width: 100%;
+    }
+    .column1 {
+        flex-direction: column;
+        margin-top: 5rem;
+    }
+    .increible {
+        flex-direction: column;
+        text-align: center;
+    }
+    .column2 {
+        flex-direction: column;
+    }
+    
+    .ultimates {
+        flex-direction: column;
+    }
+    .get {
+        text-align: center;
+        width: 100%;
+        margin: auto;
+        margin-top: 5rem;
+        color :rgb(19, 19, 105);
+    }
+    .getp {
+        text-align: center;
+        width: 100%;
+        margin: auto;
+        color: gray;
+        margin-top: 1rem;
+    }
+    .pesos {
+        display: flex;
+        justify-content: center;
+    }
+    .pago {
+        flex-direction: column;
+        text-align: center;
+        margin-top: 10rem;
+    }
+    .pesos h1 {
+        color:rgb(19, 19, 105) ;
+        font-size: 2.2rem;
+    }
+    .pesos span {
+        display: flex;
+        align-items: center;
+        color: gray;
+    }
+    .business {
+        font-size: 1.5rem;
+        color:rgb(19, 19, 105) ;
+        font-weight: bold;
+        margin-bottom: 1rem;
+    }
+    .for {
+        color: gray;
+    }
+    .cosas-pago {
+        margin-top: 5rem;
+    }
+    .cosas-pago p {
+        margin-bottom: 1rem;
+        color: gray;
+    }
+    .pago button {
+        text-decoration: none;
+        border-radius: 20px;
+        background-color: blue;
+        color: white;
+        padding: 0.5rem 1.5rem;
+        font-size: 1.1rem;
+        border: blue;
+    }
+    .pagoss {
+        flex-direction: column;
+        gap: 15rem;
+    }
+    .clientesImg {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .clientesImg img {
+        max-width: 100%;
+    }
+    .clientes {
+        flex-direction: column;
+        margin-top: 15rem;
+    }
+    .clientesCosas h1 {
+        color:rgb(19, 19, 105) ;
+        font-size: 2rem;
+        width: 100%;
+        margin-bottom: 2rem;
+        text-align: center;
+        margin-top: 2rem;
+    }
+    .h1p {
+        color: gray;
+        margin-top: 1rem;
+        text-align: center;
+    }
+    .estrellas {
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        text-align: center;
+    }
+    .clientes h2 {
+        font-size: 1.2rem;
+        color:rgb(19, 19, 105) ;
+        text-align: center;
+    }
+    .loremXL {
+        color: gray;
+        margin-top: 2rem;
+        text-align: center;
+    }
+    .fotoMujer {
+        display: flex;
+        margin-top: 3rem;
+        gap: 2rem;
+        justify-content: center;
+    }
+    .mujer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .mujer h3 {
+        color:rgb(19, 19, 105) ;
+    }
+    .mujer p {
+        color: gray;
+    }
+    .fre{
+        color:rgb(19, 19, 105) ;
+        text-align: center;
+        margin-top: 10rem;
+    }
+    .loremFre{
+        color: gray;
+        margin-top: 1rem;
+        text-align: center;
+        width: 100%;
+        margin: auto;
+        margin-top: 1.5rem;
+    }
+    .emergency {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10rem;
+        color :rgb(19, 19, 105) ;
+        width: 100%;
+    }
+    
+    .muchoLorem {
+        margin-top: 5rem;
+        margin-bottom: 1rem;
+        color: gray;
+        line-height: 30px;
+    }
+    .emergencyy {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        color :rgb(19, 19, 105) ;
+        margin-top: 5rem;
+    }
+    .prueba777 {
+        width: 60%;
+        margin: 0 auto;
+    }
+    .mas {
+        font-size: 1.5rem;
+    }
+    .cajaFinal h1 {
+        font-size: 2rem;
+        color: rgb(19, 19, 105);
+        text-align: center;
+    }
+    .cajaFinal P {
+        width: 100%;
+        margin-top: 2rem;
+        color: gray;
+        line-height: 30px;
+        text-align: center;
+    }
+    .imgs {
+        margin-top: 2rem;
+        display: flex;
+    }
+    .imgGG {
+        width: 100%;
+        margin: 0 auto;
+
+    }
+    .imgGG img {
+        max-width: 100%;
+    }
+    .flexFinal {
+        flex-direction: column;
+        margin-top: 10rem;
+    }
+    .azul {
+        width: 100%;
+        height: 20rem;
+        background-color:rgb(55, 55, 124) ;
+        display: flex;
+        justify-content: center;
+        margin-top: -1.5rem;
+        
+    
+    }
+    .finalll {
+        margin-top: 7rem;
+        flex-direction: column;
+    }
+    .home {
+        display: flex;
+        gap: 0.5rem;
+        color: rgb(204, 204, 204);
+        margin-top: 2rem;
+        font-size: 0.9rem;
+    }
+    .applabb {
+        display: flex;
+        font-size: 1.3rem;
+        justify-content: center;
+    }
+    .applabb h2 {
+        color :rgb(204, 177, 27) ;
+    
+    }
+    .applabb span {
+        font-size: 2rem;
+        font-weight: 700;
+        color: rgb(255, 255, 255);
+    }
+    .this {
+        text-align: center;
+        color: rgb(88, 88, 88);
+        margin-top: 2rem;
+        font-size: 0.7rem;
+    }
+}
+    
